@@ -10,8 +10,8 @@ A student passionate about transforming complex challenges into elegant system s
 
 | Category (Focus) | Languages & Frameworks                        | Data & Architecture                    | Tools & Platforms                     |
 | :--------------- | :-------------------------------------------- | :------------------------------------- | :------------------------------------ |
-| **Backend/Core** | `Java` `Go` `Python` `C/C++` `C#`             | `SpringBoot` `Flask` `SpringCloud` `walk`     | `Linux` `Git` `Docker` `Oracle Cloud` |
-| **Frontend/GUI** | `Vue.js`                                      | `Elasticsearch` `MySQL` `SQLite` `OSS` | `PyQt6`                               |
+| **Backend/Core** | `Java` `Go` `Python` `C/C++` `C#`             | `SpringBoot` `Flask` `SpringCloud`     | `Linux` `Git` `Docker` `Oracle Cloud` |
+| **Frontend/GUI** | `Vue.js`                                      | `Elasticsearch` `MySQL` `SQLite` `OSS` | `PyQt6` `Go walk GUI`                               |
 | **Web3/Data**    | Grad project featured `Fisco Bcos` Blockchain |                                        |                                       |
 
 ---
@@ -49,10 +49,19 @@ A student passionate about transforming complex challenges into elegant system s
 
 ### 📈 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=10&hide=html,CSS,EJS#gh-light-mode-only" alt="GitHub Repo Language" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=10&hide=html,CSS,EJS&theme=dark#gh-dark-mode-only" alt="GitHub Repo Language" width="60%" />
-</p>
+#### Top Languages
+
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS">
+  <img alt="github contribution grid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=10&hide=html,CSS,EJS">
+</picture>
+
+#### Contributions
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yexca&theme=synthwave&date_format=%5BY-%5Dn-j)
+
+#### Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yexca/yexca/snake/snake-dark.svg">
