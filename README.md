@@ -51,11 +51,7 @@ A student passionate about transforming complex challenges into elegant system s
 
 #### Top Languages
 
-<picture >
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS">
-  <img alt="github contribution grid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=10&hide=html,CSS,EJS">
-</picture>
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS&theme=dark)
 
 #### Contributions
 
