@@ -41,8 +41,8 @@ A student passionate about transforming complex challenges into elegant system s
 
 ### 📚 Knowledge Structuring & Community Contribution
 
-* 📝 **VRChat 3D Model Tutorial:** Created and maintained detailed tutorial documentation using **Blender/Unity** combined with **Docsify/Hugo**, showcasing the ability to **systemize complex technical knowledge** for public consumption.
-  * Docs: [vrchat.yexca.net](https://vrchat.yexca.net) | Blog: [vrc.yexca.net](https://vrc.yexca.net/)
+* 📝 **VRChat 3D Model Tutorial:** Created and maintained detailed tutorial documentation using **Blender/Unity** combined with **Hugo Book/Hexo**, showcasing the ability to **systemize complex technical knowledge** for public consumption.
+  * Docs(Hugo Book): [vrchat.yexca.net](https://vrchat.yexca.net) | Blog: [vrc.yexca.net](https://vrc.yexca.net/) | Docs(Docsify Archive): [docsifyvrchat.yexca.net](https://docsifyvrchat.yexca.net/)
 * 🔨 **Small Tools:** Continuously develop small tools (e.g., [Matuya register web scraper](https://github.com/yexca/matuya-register)) to hone **Python web scraping** skills and practical problem-solving.
 
 ---
