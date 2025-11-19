@@ -55,7 +55,7 @@ A student passionate about transforming complex challenges into elegant system s
 
 #### Contributions
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yexca&theme=synthwave&date_format=%5BY-%5Dn-j)
+![GitHub Streak](https://streak-stats.demolab.com?user=yexca&theme=microsoft-dark)
 
 #### Snake
 
