@@ -51,7 +51,7 @@ A student passionate about transforming complex challenges into elegant system s
 
 #### Top Languages
 
-![Top langs](github-readme-stats-three-sigma-63.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS&theme=dark)
+![Top langs](https://github-readme-stats-three-sigma-63.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS&theme=dark)
 
 #### Contributions
 
