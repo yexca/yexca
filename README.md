@@ -55,7 +55,7 @@ A student passionate about transforming complex challenges into elegant system s
 
 #### Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yexca&theme=microsoft-dark)
+![GitHub Streak](https://github-readme-streak-stats-iota-six-81.vercel.app?user=yexca&theme=microsoft-dark)
 
 #### Snake
 
