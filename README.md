@@ -59,6 +59,7 @@ Ignored Languages: HTML, CSS, EJS
 
 ![GitHub Streak](https://github-readme-streak-stats-iota-six-81.vercel.app?user=yexca&theme=microsoft-dark)
 
+<!--
 #### Snake
 
 <picture>
@@ -66,7 +67,7 @@ Ignored Languages: HTML, CSS, EJS
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yexca/yexca/snake/snake.svg">
   <img alt="github contribution grid" src="https://raw.githubusercontent.com/yexca/yexca/snake/snake.svg" width="100%">
 </picture>
-
+-->
 ---
 
 ### 📫 Contact
