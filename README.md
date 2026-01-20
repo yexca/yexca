@@ -1,4 +1,6 @@
-# Hi there 👋, I'm @yexca
+# Hi there 👋
+
+I'm yexca (/jɛkɑ/)
 
 ### 💻 Aspiring System Architect | Full-Stack System Builder | Cross-Domain Technologist
 
@@ -8,15 +10,15 @@ A student passionate about transforming complex challenges into elegant system s
 
 ### 🛠️ Core Technology Stack
 
-| Category (Focus) | Languages & Frameworks                        | Data & Architecture                    | Tools & Platforms                     |
-| :--------------- | :-------------------------------------------- | :------------------------------------- | :------------------------------------ |
-| **Backend/Core** | `Java` `Go` `Python` `C/C++` `C#`             | `SpringBoot` `Flask` `SpringCloud`     | `Linux` `Git` `Docker` `Oracle Cloud` |
-| **Frontend/GUI** | `Vue.js`                                      | `Elasticsearch` `MySQL` `SQLite` `OSS` | `PyQt6` `Go walk GUI`                               |
-| **Web3/Data**    | Grad project featured `Fisco Bcos` Blockchain |                                        |                                       |
+| Domain | Languages | Frameworks & Platforms | Data & Tools |
+| :--- | :--- | :--- | :--- |
+| **Backend & Core** | `Java` `Go` `Python` `C/C++` | `SpringBoot` `SpringCloud` `Flask` | `MySQL` `Elasticsearch` `Fisco Bcos` |
+| **Client Side** | `JavaScript` `Vue.js` | `PyQt6` `Walk (Go GUI)` `Astro` | `SQLite` `Hugo` |
+| **DevOps & Infra** | `Bash` `PowerShell` | `Docker` `GitHub Actions` | `Linux` `Oracle Cloud` `Git` |
 
 ---
 
-### 🏆 Featured Projects & Engineering Mindset
+### 🏆 Featured Projects
 
 #### 1. Data Element Market Supply-Side Management System
 
@@ -31,11 +33,11 @@ A student passionate about transforming complex challenges into elegant system s
 * **Practice:** Utilized **Hugo (SSG)** for performance and implemented **GitHub Actions** to design and execute a full **DevOps** pipeline for automatic build/deployment of **four languages** content.
 * **URL:** [blog.yexca.net](https://blog.yexca.net) | **Repo:** [yexca/blog](https://github.com/yexca/blog)
 
-#### 3. PyQt6 Image Data Collection Application
+#### 3. Python-based Projects
 
-* **Highlights:** Developed a Python + PyQt6 desktop application for automated image data collection and management.
-* **Engineering Mindset:** To solve **portability issues** caused by the initial **MySQL** implementation, the database was successfully refactored to **SQLite**, achieving application lightness and eliminating server dependencies.
-* **Repo:** [yexca/PixivDownloader-SQLite](https://github.com/yexca/PixivDownloader-SQLite)
+- [yexca/PixivDownloader-SQLite](https://github.com/yexca/PixivDownloader-SQLite): A PyQt6 desktop application for automated image data collection and management.
+- [yexca/matuya-register](https://github.com/yexca/matuya-register): A Matsuya account registration tool featuring Docker containerization support. *(Educational project for web scraping research)*
+- [yexca/RecordTreeDownloader-SQLite](https://github.com/yexca/RecordTreeDownloader-SQLite): A utility that parses JSON data to batch download files via MEGA-cmd interface.
 
 ---
 
@@ -43,7 +45,7 @@ A student passionate about transforming complex challenges into elegant system s
 
 * 📝 **VRChat 3D Model Tutorial:** Created and maintained detailed tutorial documentation using **Blender/Unity** combined with **Astro starlight/Hexo**, showcasing the ability to **systemize complex technical knowledge** for public consumption.
   * Docs: [vrchat.yexca.net](https://vrchat.yexca.net) | Blog: [vrc.yexca.net](https://vrc.yexca.net/) | Repo: [yexca-VRChat/vrchat-docs-source](https://github.com/yexca-VRChat/vrchat-docs-source)
-* 🔨 **Small Tools:** Continuously develop small tools (e.g., [Matuya register web scraper](https://github.com/yexca/matuya-register)) to hone **Python web scraping** skills and practical problem-solving.
+* 🔨 **Small Tools:** Continuously develop small tools (e.g., [Hugo translate tool](https://github.com/yexca/Hugo-translate-tool)) to hone programming skills and practical problem-solving.
 
 ---
 
