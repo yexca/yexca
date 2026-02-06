@@ -1,10 +1,6 @@
 # Hi there 👋
 
-I'm yexca (/jɛkɑ/)
-
-### 💻 Aspiring System Architect | Full-Stack System Builder | Cross-Domain Technologist
-
-A student passionate about transforming complex challenges into elegant system solutions. My focus areas include **backend architecture design, DevOps practices,** and **cross-platform application development**. I aim to become a System Architect who excels at making critical technical trade-offs.
+I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges into elegant system solutions. My focus areas include **backend architecture design, DevOps practices,** and **cross-platform application development**. I aim to become a System Architect who excels at making critical technical trade-offs.
 
 ---
 
