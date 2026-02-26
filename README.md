@@ -27,7 +27,7 @@ I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges
 
 * **Goal:** Establish a high-performance, multilingual personal knowledge base.
 * **Practice:** Utilized **Hugo (SSG)** for performance and implemented **GitHub Actions** to design and execute a full **DevOps** pipeline for automatic build/deployment of **four languages** content.
-* **URL:** [blog.yexca.net](https://blog.yexca.net) | **Repo:** [yexca/blog](https://github.com/yexca/blog)
+* **Repo:** [yexca/blog](https://github.com/yexca/blog) | **URL:** [blog.yexca.net](https://blog.yexca.net)
 
 #### 3. Python-based Projects
 
@@ -40,7 +40,7 @@ I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges
 ### 📚 Knowledge Structuring & Community Contribution
 
 * 📝 **VRChat 3D Model Tutorial:** Created and maintained detailed tutorial documentation using **Blender/Unity** combined with **Astro starlight/Hexo**, showcasing the ability to **systemize complex technical knowledge** for public consumption.
-  * Docs: [vrchat.yexca.net](https://vrchat.yexca.net) | Blog: [vrc.yexca.net](https://vrc.yexca.net/) | Repo: [yexca-VRChat/vrchat-docs-source](https://github.com/yexca-VRChat/vrchat-docs-source)
+  * Repo: [yexca-VRChat/vrchat-docs-source](https://github.com/yexca-VRChat/vrchat-docs-source) | Docs: [vrchat.yexca.net](https://vrchat.yexca.net) | Blog: [vrc.yexca.net](https://vrc.yexca.net/)
 * 🔨 **Small Tools:** Continuously develop small tools (e.g., [Hugo translate tool](https://github.com/yexca/Hugo-translate-tool)) to hone programming skills and practical problem-solving.
 
 ---
@@ -73,3 +73,5 @@ Ignored Languages: HTML, CSS, EJS
 * **Email:** `"github#yexca.net".replace("#", "@")`
     > 💡 *Please manually replace '#' with '@' to send the email.*
 * **Telegram:** [@yexca](https://t.me/yexca)
+
+> `Last update: 2026-02-26T18:42:33+09:00`
