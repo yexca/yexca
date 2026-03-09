@@ -33,7 +33,7 @@ I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges
 
 - [yexca/PixivDownloader-SQLite](https://github.com/yexca/PixivDownloader-SQLite): A PyQt6 desktop application for automated image data collection and management.
 - [yexca/matuya-register](https://github.com/yexca/matuya-register): A Matsuya account registration tool featuring Docker containerization support. *(Educational project for web scraping research)*
-- [yexca/RecordTreeDownloader-SQLite](https://github.com/yexca/RecordTreeDownloader-SQLite): A utility that parses JSON data to batch download files via MEGA-cmd interface.
+- [yexca/RecordTreeDownloader-SQLite](https://github.com/yexca/RecordTreeDownloader-SQLite): A utility that parses JSON and xlsx data to batch download files via MEGA-cmd interface.
 
 ---
 
