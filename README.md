@@ -73,6 +73,5 @@ Ignored Languages: HTML, CSS, EJS
 
 * **Email:** `"github#yexca.net".replace("#", "@")`
     > 💡 *Please manually replace '#' with '@' to send the email.*
-* **Telegram:** [@yexca](https://t.me/yexca)
 
-> `Last update: 2026-02-26T18:42:33+09:00`
+> `Last update: 2026-03-12T19:59:20+09:00`
