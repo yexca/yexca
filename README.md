@@ -27,7 +27,7 @@ I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges
 
 * **Goal:** Establish a high-performance, multilingual personal knowledge base.
 * **Practice:** Utilized **Hugo (SSG)** for performance and implemented **GitHub Actions** to design and execute a full **DevOps** pipeline for automatic build/deployment of **four languages** content.
-* **Repo:** [yexca/blog](https://github.com/yexca/blog) | **URL:** [blog.yexca.net](https://blog.yexca.net)
+* **Repo:** [yexca/blog](https://github.com/yexca/blog) | **URL:** [blog.yexca.net](https://blog.yexca.net/en/)
 
 #### 3. Python-based Projects
 
