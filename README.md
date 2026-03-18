@@ -21,7 +21,7 @@ I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges
 * **Role:** Graduation Project (Full-stack solo development).
 * **Highlights:** Used **SpringBoot/Vue** architecture, integrated **Elasticsearch** (for high-speed searching) and **Fisco Bcos** (for data immutability and ownership).
 * **Engineering Practice:** Most services were containerized (**Docker**), but the Blockchain node was **intentionally deployed traditionally** to ensure maximum stability—demonstrating a critical technical trade-off.
-* **Repo:** [Backend](https://github.com/yexca/data-element-backend) | [Frontend](https://github.com/yexca/data-element-frontend) | [Deploy (Docker)](https://github.com/yexca/data-element-docker)
+* **Repo:** [Backend](https://github.com/yexca/data-element-backend) | [Frontend](https://github.com/yexca/data-element-frontend) | [Deploy (Docker)](https://github.com/yexca/data-element-docker) | **Demo:** [data-element.yexca.net](https://data-element.yexca.net)
 
 #### 2. Technical Blog & CI/CD Automation
 
