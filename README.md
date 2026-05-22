@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges into elegant system solutions. My focus areas include **backend architecture design, DevOps practices,** and **cross-platform application development**. I aim to become a System Architect who excels at making critical technical trade-offs.
+I'm yexca (/jɛkɑ/). A Master's student researching Image Recognition and Data Analysis. 
 
 ---
 
@@ -20,7 +20,7 @@ I'm yexca (/jɛkɑ/). A student passionate about transforming complex challenges
 
 * **Role:** Graduation Project (Full-stack solo development).
 * **Highlights:** Used **SpringBoot/Vue** architecture, integrated **Elasticsearch** (for high-speed searching) and **Fisco Bcos** (for data immutability and ownership).
-* **Engineering Practice:** Most services were containerized (**Docker**), but the Blockchain node was **intentionally deployed traditionally** to ensure maximum stability—demonstrating a critical technical trade-off.
+* **Engineering Practice:** Most services were containerized (**Docker**).
 * **Repo:** [Backend](https://github.com/yexca/data-element-backend) | [Frontend](https://github.com/yexca/data-element-frontend) | [Deploy (Docker)](https://github.com/yexca/data-element-docker) | **Demo:** [data-element.yexca.net](https://data-element.yexca.net)
 
 #### 2. Technical Blog & CI/CD Automation
@@ -74,4 +74,4 @@ Ignored Languages: HTML, CSS, EJS
 * **Email:** `"github#yexca.net".replace("#", "@")`
     > 💡 *Please manually replace '#' with '@' to send the email.*
 
-> `Last update: 2026-03-12T19:59:20+09:00`
+> `Last update: 2026-05-22T13:28:20+09:00`
