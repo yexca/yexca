@@ -1,64 +1,65 @@
-# Hi there 👋
+# Hi there, I'm yexca 👋
 
-I'm yexca (/jɛkɑ/). A Master's student researching Image Recognition and Data Analysis. 
+I'm yexca (`/jɛkɑ/`), a Master's student interested in image recognition, data analysis, and practical software systems.
 
----
-
-### 🛠️ Core Technology Stack
-
-| Domain | Languages | Frameworks & Platforms | Data & Tools |
-| :--- | :--- | :--- | :--- |
-| **Backend & Core** | `Java` `Go` `Python` `C/C++` | `SpringBoot` `SpringCloud` `Flask` | `MySQL` `Elasticsearch` `Fisco Bcos` |
-| **Client Side** | `JavaScript` `Vue.js` | `PyQt6` `Walk (Go GUI)` `Astro` | `SQLite` `Hugo` |
-| **DevOps & Infra** | `Bash` `PowerShell` | `Docker` `GitHub Actions` | `Linux` `Oracle Cloud` `Git` |
+I like building small-but-useful tools around AI, automation, data, blogs, and daily workflows. Sometimes they start as quick scripts; sometimes they grow into full-stack projects. 🛠️
 
 ---
 
-### 🏆 Featured Projects
+## 🧰 Tech Stack
 
-#### 1. Data Element Market Supply-Side Management System
-
-* **Role:** Graduation Project (Full-stack solo development).
-* **Highlights:** Used **SpringBoot/Vue** architecture, integrated **Elasticsearch** (for high-speed searching) and **Fisco Bcos** (for data immutability and ownership).
-* **Engineering Practice:** Most services were containerized (**Docker**).
-* **Repo:** [Backend](https://github.com/yexca/data-element-backend) | [Frontend](https://github.com/yexca/data-element-frontend) | [Deploy (Docker)](https://github.com/yexca/data-element-docker) | **Demo:** [data-element.yexca.net](https://data-element.yexca.net)
-
-#### 2. Technical Blog & CI/CD Automation
-
-* **Goal:** Establish a high-performance, multilingual personal knowledge base.
-* **Practice:** Utilized **Hugo (SSG)** for performance and implemented **GitHub Actions** to design and execute a full **DevOps** pipeline for automatic build/deployment of **four languages** content.
-* **Repo:** [yexca/blog](https://github.com/yexca/blog) | **URL:** [blog.yexca.net](https://blog.yexca.net/en/)
-
-#### 3. Python-based Projects
-
-- [yexca/PixivDownloader-SQLite](https://github.com/yexca/PixivDownloader-SQLite): A PyQt6 desktop application for automated image data collection and management.
-- [yexca/matuya-register](https://github.com/yexca/matuya-register): A Matsuya account registration tool featuring Docker containerization support.  
-  *(Educational project for web scraping research)*
-- [yexca/RecordTreeDownloader-SQLite](https://github.com/yexca/RecordTreeDownloader-SQLite): A utility that parses JSON and xlsx data to batch download files via MEGA-cmd interface.
+- 🤖 AI / Data: `Python` `Rust` `PyQt6` `Ultralytics YOLO` `SQLite`
+- ⚙️ Backend: `Java` `Go` `C/C++` `Spring Boot` `Flask` `MySQL` `Elasticsearch`
+- 🎨 Frontend / Docs: `JavaScript` `TypeScript` `Vue` `Astro` `Hugo`
+- 🚀 Tools: `Docker` `GitHub Actions` `Linux` `FFmpeg` `MEGAcmd`
 
 ---
 
-### 📚 Knowledge Structuring & Community Contribution
+## ✨ Featured Projects
 
-* 📝 **VRChat 3D Model Tutorial:** Created and maintained detailed tutorial documentation using **Blender/Unity** combined with **Astro starlight/Hexo**, showcasing the ability to **systemize complex technical knowledge** for public consumption.
-  * Repo: [yexca-VRChat/vrchat-docs-source](https://github.com/yexca-VRChat/vrchat-docs-source) | Docs: [vrchat.yexca.net](https://vrchat.yexca.net) | Blog: [vrc.yexca.net](https://vrc.yexca.net/)
-* 🔨 **Small Tools:** Continuously develop small tools (e.g., [Hugo translate tool](https://github.com/yexca/Hugo-translate-tool)) to hone programming skills and practical problem-solving.
+- 🧪 [YOLO-Multi](https://github.com/yexca/YOLO-Multi)  
+  Multi-experiment Ultralytics YOLO workflow with dataset filtering, label remapping, dry runs, and safer training data generation.
+
+- 🎧 [AI-Cover-Tools](https://github.com/yexca/AI-Cover-Tools)  
+  Windows GUI tools for local AI cover audio preparation, including separation, slicing, spectrogram checks, pitch reports, and normalization.
+
+- 🏗️ [Data Element Market Supply-Side Management System](https://github.com/yexca/data-element-backend)  
+  Graduation project built with Spring Boot, Vue, MySQL, Elasticsearch, object storage, JWT/RBAC, Docker, and optional Fisco Bcos integration.  
+  [Backend](https://github.com/yexca/data-element-backend) · [Frontend](https://github.com/yexca/data-element-frontend) · [Deploy](https://github.com/yexca/data-element-docker) · [Demo](https://data-element.yexca.net)
+
+- 🌏 [blog](https://github.com/yexca/blog)  
+  Multilingual Hugo knowledge base for Chinese, Japanese, and English content, deployed with GitHub Actions.
+
+- 📚 [VRChat Docs](https://github.com/yexca-VRChat/vrchat-docs-source)  
+  Public VRChat model tutorial docs built with Astro Starlight.
+
+- 🧰 Utilities  
+  [PixivDownloader-SQLite](https://github.com/yexca/PixivDownloader-SQLite) · [DLTreeDownloader-SQLite](https://github.com/yexca/DLTreeDownloader-SQLite) · [Hugo-translate-tool](https://github.com/yexca/Hugo-translate-tool)
 
 ---
 
-### 📈 GitHub Activity
+## 🌱 Interests
 
-#### Top Languages
+Reproducible experiments, local-first tools, searchable data, multilingual docs, and automation that quietly saves time.
 
+---
+
+## 📊 GitHub Activity
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yexca&theme=github_dark)
+
+<p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yexca&theme=github_dark&utcOffset=9" alt="Productive time" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexca&theme=github_dark" alt="Most commit language" />
+</p>
+
+<!--
 Ignored Languages: HTML, CSS, EJS
 
 ![Top langs](https://github-readme-stats-three-sigma-63.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS&theme=dark)
 
-#### Contributions
-
 ![GitHub Streak](https://github-readme-streak-stats-iota-six-81.vercel.app?user=yexca&theme=microsoft-dark)
 
-<!--
 #### Snake
 
 <picture>
@@ -67,11 +68,11 @@ Ignored Languages: HTML, CSS, EJS
   <img alt="github contribution grid" src="https://raw.githubusercontent.com/yexca/yexca/snake/snake.svg" width="100%">
 </picture>
 -->
+
 ---
 
-### 📫 Contact
+## 📫 Contact
 
-* **Email:** `"github#yexca.net".replace("#", "@")`
-    > 💡 *Please manually replace '#' with '@' to send the email.*
+- Email: `"github#yexca.net".replace("#", "@")`
 
-> `Last update: 2026-05-22T13:28:20+09:00`
+> Last update: 2026-06-09T17:18:00+09:00
