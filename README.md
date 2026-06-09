@@ -53,6 +53,8 @@ Reproducible experiments, local-first tools, searchable data, multilingual docs,
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexca&theme=github_dark&exclude=html,css,scss,ejs" alt="Most commit language" />
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats-iota-six-81.vercel.app?user=yexca&theme=microsoft-dark)
+
 Ignored Languages: HTML, CSS, SCSS, EJS
 
 ---
