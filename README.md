@@ -50,24 +50,10 @@ Reproducible experiments, local-first tools, searchable data, multilingual docs,
 
 <p>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yexca&theme=github_dark&utcOffset=9" alt="Productive time" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexca&theme=github_dark" alt="Most commit language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexca&theme=github_dark&exclude=html,css,scss,ejs" alt="Most commit language" />
 </p>
 
-<!--
-Ignored Languages: HTML, CSS, EJS
-
-![Top langs](https://github-readme-stats-three-sigma-63.vercel.app/api/top-langs/?username=yexca&layout=compact&langs_count=8&hide=html,CSS,EJS&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats-iota-six-81.vercel.app?user=yexca&theme=microsoft-dark)
-
-#### Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yexca/yexca/snake/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yexca/yexca/snake/snake.svg">
-  <img alt="github contribution grid" src="https://raw.githubusercontent.com/yexca/yexca/snake/snake.svg" width="100%">
-</picture>
--->
+Ignored Languages: HTML, CSS, SCSS, EJS
 
 ---
 
