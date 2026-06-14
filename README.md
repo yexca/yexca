@@ -47,6 +47,8 @@ Most of my projects start from a small repeated problem: preparing datasets, che
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexca&theme=github_dark&exclude=html,css,scss,ejs" alt="Most commit language" />
 </p>
 
+> Ignored Languages: HTML, CSS, SCSS, EJS
+
 ## 📫 Contact
 
 - Email: `"github#yexca.net".replace("#", "@")`
