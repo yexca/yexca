@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-yexca.net-2f81f7?style=flat-square&logo=hugo&logoColor=white)](https://blog.yexca.net)
 [![GitHub](https://img.shields.io/badge/GitHub-yexca-181717?style=flat-square&logo=github)](https://github.com/yexca)
-[![Email](https://img.shields.io/badge/Email-contact-6a5acd?style=flat-square&logo=gmail&logoColor=white)](#contact)
+[![Email](https://img.shields.io/badge/Email-contact-6a5acd?style=flat-square&logo=gmail&logoColor=white)](#-contact)
 
 </div>
 
