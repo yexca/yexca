@@ -51,6 +51,6 @@ Most of my projects start from a small repeated problem: preparing datasets, che
 
 ## 📫 Contact
 
-- Email: `"github#yexca.net".replace("#", "@")`
+- Email: `"hi#yexca.net".replace("#", "@")`
 
 > Last update: 2026-06-15T03:08:00+09:00
