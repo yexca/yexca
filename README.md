@@ -40,17 +40,8 @@ Most of my projects start from a small repeated problem: preparing datasets, che
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 📊 GitHub Activity
-
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yexca&theme=github_dark&utcOffset=9" alt="Productive time" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yexca&theme=github_dark&exclude=html,css,scss,ejs" alt="Most commit language" />
-</p>
-
-> Ignored Languages: HTML, CSS, SCSS, EJS
-
 ## 📫 Contact
 
 - Email: `"hi#yexca.net".replace("#", "@")`
 
-> Last update: 2026-06-15T03:08:00+09:00
+> Last update: 2026-06-30T09:03:00+09:00
