@@ -2,7 +2,7 @@
 
 # Hi there, I'm yexca 👋
 
-### I build practical tools for AI workflows, local automation, data, and multilingual notes.
+### I build local-first tools, agent workflows, and knowledge systems.
 
 [![Blog](https://img.shields.io/badge/Blog-yexca.net-2f81f7?style=flat-square&logo=hugo&logoColor=white)](https://blog.yexca.net)
 [![GitHub](https://img.shields.io/badge/GitHub-yexca-181717?style=flat-square&logo=github)](https://github.com/yexca)
@@ -14,34 +14,24 @@
 
 ## 🧑‍💻 About Me
 
-I'm yexca (`/jɛkɑ/`), a Master's student interested in image recognition, data analysis, local-first software, and practical systems.
+I'm yexca (`/jɛkɑ/`), a Master's student exploring how AI, agents, and local software can become dependable personal systems.
 
-Most of my projects start from a small repeated problem: preparing datasets, checking media quality, managing files, translating notes, deploying personal services, or making local workflows less annoying. I like building tools that are easy to run, easy to inspect, and useful after the first experiment is over. 🛠️
+Most of my work starts with a small recurring friction: preparing data, running models locally, automating repetitive steps, organizing media, or keeping knowledge usable across languages. I care about the harness around AI—the tools, state, permissions, feedback, and documentation that turn a capable model into a useful workflow.
 
-- 🔭 Recently working on local-first planning, image hosting, and personal assistant infrastructure.
-- 🧪 Interested in reproducible AI experiments and safer data preparation workflows.
-- 🌏 Maintaining multilingual notes and docs in Chinese, Japanese, and English.
-- ⚙️ Comfortable moving between scripts, desktop tools, backend services, frontend apps, and deployment.
+- 🤖 Exploring local models, agent workflows, and MCP.
+- 🧰 Building small, local-first tools for planning, media, and personal infrastructure.
+- 🌏 Maintaining Chinese, Japanese, and English notes and publishing workflows.
+- 📝 Writing about AI workflows, systems, and everyday engineering on [my Blog](https://blog.yexca.net/).
 
-## 🧰 Tech Stack
+## 🧭 What I Care About
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+- **Local-first** — keep data, models, and control close when that makes the system clearer and more dependable.
+- **Inspectable** — make inputs, state, and failures visible enough to debug and improve.
+- **Composable** — connect models, tools, storage, and human decisions into a workflow.
+- **Worth maintaining** — prefer small systems that remain useful after the first experiment.
 
 ## 📫 Contact
 
 - Email: `"hi#yexca.net".replace("#", "@")`
 
-> Last update: 2026-06-30T09:03:00+09:00
+> Last update: 2026-09-24T06:01:00+09:00
